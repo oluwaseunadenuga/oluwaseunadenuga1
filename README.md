@@ -6,12 +6,7 @@
 - <b>: Enterprise Phishing Awareness & Prevention Project</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   <b>: ISMS Implementation Project</b>
-  - <b>PowerShell</b>
-  - Qualys Vulnerability Management Foundation Course//github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-   - 
-<h2>📺 Training and Certifications</h2>
+  <h2>📺 Training and Certifications</h2>
   - [Qualys Vulnerability Management Foundation Course]://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
