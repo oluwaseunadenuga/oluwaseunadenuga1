@@ -6,8 +6,10 @@
 - <b>: Enterprise Phishing Awareness & Prevention Project</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   <b>: ISMS Implementation Project</b>
+   - [ISO27001 Project Implementation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>
   <h2>📺 Training and Certifications</h2>
-  - Qualys Vulnerability Management Foundation Course
+  Vulnerability Assessment Program using Nessus](https://github.com/oluwaseunadenuga)
+  Qualys Vulnerability Management Foundation Course
   Nessus Vulnerability Management Course
   GRC Analyst Master Class, Simply Academy
   Cybersecurity for Everyone, Coursera
