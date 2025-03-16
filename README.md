@@ -5,15 +5,10 @@
 
 - <b>Hospital Vulnerability Management Project</b>
   - [Vulnerability Assessment Program using Nessus](https://github.com/oluwaseunadenuga)
-- <b>: Enterprise Phishing Awareness & Prevention Project</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>(Potentially NSFW)</b></i>
-  <b>: ISMS Implementation Project</b>
-   - [ISO27001 Implementation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
 
  <h2>👨‍💻Certifications and Trainings:</h2>
-  
 - [Nessus Vulnerability Management Course](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
-- [Qualys Vulnerability Management Foundation Course](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>  
+ - [Qualys Vulnerability Management Foundation Course](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>  
 - [Datacom Cybersecurity Job Simulation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
 - [Mastercard Cybersecurity Job Simulation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
 - [Tata Group Cybersecurity Job Simulation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
