@@ -4,11 +4,12 @@
   <h2>👨‍💻Cybersecurity Project:</h2>
 
 - <b>Vulnerability Assessment Project</b>
+
   - [Vulnerability Assessment Project using Nessus](https://github.com/oluwaseunadenuga)
 
  <h2>👨‍💻Certifications and Trainings:</h2>
  
-- [**Qualys Vulnerability Management Course**] <b>  
+- [**Qualys Vulnerability Management Course**] <b>
 - [**Datacom Cybersecurity Job Simulation**] <b>
 - [Mastercard Cybersecurity Job Simulation] <b>
 - [Tata Group Cybersecurity Job Simulation]<b>
