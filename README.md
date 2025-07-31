@@ -1,17 +1,16 @@
-<h1> Oluwaseun Adenuga - IT and Cybersecurity Project Portfolio
+# <a href="https://www.linkedin.com/in/oluwaseunadenuga/">Oluwaseun Adenuga</a>'s IT and Cybersecurity Project Portfolio 🔐
+
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
-  <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Cybersecurity+Analyst;5%2B+Years+of+Experience;Vulnerability+Management+Expert;ISMS+Implementation+Specialist&font=Fira%20Code&center=true&width=440&height=45&color=2563eb&vCenter=true&size=22" />
-</div>
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-morgan-cybersec)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex.morgan@cybersec.pro)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://alexmorgan-cybersec.com)
 
-</div>
+## ⚠️ Vulnerability Management Projects
 
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 ### Key Specialisations
 - **Vulnerability Management** with Tenable & AWS
