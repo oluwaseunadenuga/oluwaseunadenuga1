@@ -12,16 +12,16 @@
 
 </div>
 
-🚀 About Me
+About Me
 
 I'm a **Senior Cybersecurity Professional** with **5+ years of experience** specializing in vulnerability management, risk assessment, and enterprise security solutions. I focus on implementing comprehensive security frameworks that protect critical business assets and enhance organizational security posture.
 
-### 🎯 Key Specializations
+### Key Specialisations
 - **Vulnerability Management** with Tenable & AWS
 - **Information Security Management Systems (ISMS)** Implementation
 - **Risk Assessment & Management**
 - **Business Continuity & Disaster Recovery**
-- **Data Loss Prevention (DLP)**
+- **Data Loss Prevention (DLP) with Purview **
 - **Compliance & Governance** (ISO 27001, Cyber Essentials+)
 
 ## 🛠️ Technical Arsenal
@@ -60,34 +60,34 @@ I'm a **Senior Cybersecurity Professional** with **5+ years of experience** spec
 ## 💼 Featured Projects
 
 ### 🎯 Vulnerability Management with Tenable & AWS
-- Implemented comprehensive vulnerability management solution
+- Implemented a comprehensive vulnerability management solution
 - **85% reduction** in security exposure across enterprise infrastructure
 - Technologies: `Tenable` `AWS` `CVSS`
 
 ### 🏢 Call Centre Security Assessment
-- Conducted thorough vulnerability assessment using Nessus Essentials
+- Conducted a thorough vulnerability assessment using Nessus Essentials
 - Identified and remediated critical security gaps in PCI DSS environment
 - Technologies: `Nessus` `PCI DSS` `Network Scanning`
 
 ### 🔍 OpenVAS Security Analysis
 - Performed detailed vulnerability assessments with comprehensive reporting
 - Delivered security posture analysis and remediation strategies
-- Technologies: `OpenVAS` `Penetration Testing` `Risk Analysis`
+- Technologies: `OpenVAS` `Penetration Testing`, `Risk Analysis`
 
 ### ⚙️ ISMS Implementation
-- Designed and implemented ISO 27001 compliant security management system
-- Established robust security governance framework
+- Designed and implemented an ISO 27001-compliant security management system
+- Established a robust security governance framework
 - Technologies: `ISO 27001` `ISMS` `Governance`
 
 ### 🔒 Data Loss Prevention Solution
 - Implemented comprehensive DLP to protect sensitive data
 - Ensured regulatory compliance and prevented unauthorized access
-- Technologies: `DLP` `Data Protection` `GDPR`
+- Technologies: `DLP`, `Data Protection`, `GDPR`
 
 ### 🔄 Business Continuity Planning
 - Developed comprehensive BCP and disaster recovery plans
 - Minimized downtime and ensured organizational resilience
-- Technologies: `BCP` `Disaster Recovery` `Risk Management`
+- Technologies: `BCP` `Disaster Recovery`, `Risk Management`
 
 ## 📜 Certifications & Training
 
