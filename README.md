@@ -14,7 +14,7 @@
 
 About Me
 
-I'm a **Senior Cybersecurity Professional** with **5+ years of experience** specializing in vulnerability management, risk assessment and enterprise security solutions. I focus on implementing comprehensive security frameworks that protect critical business assets and enhance organizational security posture.
+I'm a **Senior Cybersecurity Professional** with **5+ years of experience** specialising in vulnerability management, risk assessment and enterprise security solutions. I focus on implementing comprehensive security frameworks that protect critical business assets and enhance organizational security posture.
 
 ### Key Specialisations
 - **Vulnerability Management** with Tenable & AWS
@@ -24,7 +24,7 @@ I'm a **Senior Cybersecurity Professional** with **5+ years of experience** spec
 - **Data Loss Prevention (DLP) with Purview **
 - **Compliance & Governance** (ISO 27001, Cyber Essentials+)
 
-## 🛠Technical Arsenal
+## Technical Arsenal
 
 ### Vulnerability Assessment Tools
 ![Tenable](https://img.shields.io/badge/Tenable-0052CC?style=flat-square&logo=tenable&logoColor=white)
@@ -96,13 +96,6 @@ I'm a **Senior Cybersecurity Professional** with **5+ years of experience** spec
 - **CISSP** (In Progress)
 - **AWS Security Specialty** (Planned)
 
-## GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexmorgan-cybersec&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmorgan-cybersec&layout=compact&langs_count=7&theme=blue-green"/>
-</div>
-
 ## Professional Experience Timeline
 
 ```
@@ -122,10 +115,10 @@ I'm a **Senior Cybersecurity Professional** with **5+ years of experience** spec
 
 I'm always interested in collaborating on cybersecurity projects and sharing knowledge with the security community. Whether you're looking for:
 
-- 🔐 **Security Consultation**
-- 🛡️ **Vulnerability Assessment**
-- ⚙️ **ISMS Implementation**
-- 📊 **Risk Management**
-- 🚨 **Incident Response Planning**
+- **Security Consultation**
+- **Vulnerability Assessment**
+- **ISMS Implementation**
+- **Risk Management**
+- **Incident Response Planning**
 
 Feel free to reach out!
