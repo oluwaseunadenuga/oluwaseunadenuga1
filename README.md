@@ -1,5 +1,5 @@
-<h1> Oluwaseun Adenuga - Cybersecurity Professional 
-
+<h1> Oluwaseun Adenuga - IT and Cybersecurity Project Portfolio
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
   <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Cybersecurity+Analyst;5%2B+Years+of+Experience;Vulnerability+Management+Expert;ISMS+Implementation+Specialist&font=Fira%20Code&center=true&width=440&height=45&color=2563eb&vCenter=true&size=22" />
 </div>
@@ -12,8 +12,6 @@
 
 </div>
 
-
-I'm a **Cybersecurity Professional** with **over 5 years of experience** specialising in vulnerability management, risk assessment and enterprise security solutions. I focus on implementing comprehensive security frameworks that protect critical business assets and enhance organisational security posture.
 
 ### Key Specialisations
 - **Vulnerability Management** with Tenable & AWS
