@@ -1,4 +1,4 @@
-<h1>Hi, I'm Oluwaseun! <br/><a href="https://github.com/oluwaseunasdenuga">Cybersecurity Professional</a>
+<h1> Oluwaseun Adenuga - Cybersecurity Professional <br/><a href="https://github.com/oluwaseunasdenuga">Cybersecurity Professional</a>
  
   <h2>👨‍💻Cybersecurity Project:</h2>
 
