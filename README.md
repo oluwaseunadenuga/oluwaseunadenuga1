@@ -1,25 +1,6 @@
 <h1> Oluwaseun Adenuga - Cybersecurity Professional 
  
-  <h2>👨‍💻Cybersecurity Project:</h2>
-
-- <b>Vulnerability Assessment Project</b>
-
-  - [Vulnerability Assessment Project using Nessus](https://github.com/oluwaseunadenuga)
-
- <h2>👨‍💻Certifications and Trainings:</h2>
- 
-- [**Qualys Vulnerability Management Course**] <b>
-- [**Datacom Cybersecurity Job Simulation**] <b>
-- [Mastercard Cybersecurity Job Simulation] <b>
-- [Tata Group Cybersecurity Job Simulation]<b>
-- [Scrum Fundamental Certified] <b>
-
-<!--
-**oluwaseunadenuga/oluwaseun_adenuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Alex Morgan - Cybersecurity Professional 🛡️
-
-<div align="center">
+  <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Cybersecurity+Analyst;5%2B+Years+of+Experience;Vulnerability+Management+Expert;ISMS+Implementation+Specialist&font=Fira%20Code&center=true&width=440&height=45&color=2563eb&vCenter=true&size=22" />
 </div>
 
@@ -31,7 +12,7 @@
 
 </div>
 
-## 🚀 About Me
+🚀 About Me
 
 I'm a **Senior Cybersecurity Professional** with **5+ years of experience** specializing in vulnerability management, risk assessment, and enterprise security solutions. I focus on implementing comprehensive security frameworks that protect critical business assets and enhance organizational security posture.
 
