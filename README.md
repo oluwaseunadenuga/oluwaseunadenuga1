@@ -1,7 +1,7 @@
 <h1> Oluwaseun Adenuga - Cybersecurity Professional 
  
   <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Cybersecurity+Analyst;5%2B+Years+of+Experience;Vulnerability+Management+Expert;ISMS+Implementation+Specialist&font=Fira%20Code&center=true&width=440&height=45&color=2563eb&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Analyst;5%2B+Years+of+Experience;Vulnerability+Management+Expert;ISMS+Implementation+Specialist&font=Fira%20Code&center=true&width=440&height=45&color=2563eb&vCenter=true&size=22" />
 </div>
 
 <div align="center">
