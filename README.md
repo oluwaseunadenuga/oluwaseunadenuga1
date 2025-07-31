@@ -1,6 +1,6 @@
 <h1> Oluwaseun Adenuga - Cybersecurity Professional 
 
- 
+
 About Me
 
 I'm a **Cybersecurity Professional** with **over 5 years of experience** specialising in vulnerability management, risk assessment and enterprise security solutions. I focus on implementing comprehensive security frameworks that protect critical business assets and enhance organisational security posture.
