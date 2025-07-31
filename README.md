@@ -14,7 +14,7 @@
 
 About Me
 
-I'm a **Senior Cybersecurity Professional** with **5+ years of experience** specialising in vulnerability management, risk assessment and enterprise security solutions. I focus on implementing comprehensive security frameworks that protect critical business assets and enhance organizational security posture.
+I'm a **Cybersecurity Professional** with **over 5 years of experience** specialising in vulnerability management, risk assessment, and enterprise security solutions. I focus on implementing comprehensive security frameworks that protect critical business assets and enhance organizational security posture.
 
 ### Key Specialisations
 - **Vulnerability Management** with Tenable & AWS
@@ -110,7 +110,7 @@ I'm a **Senior Cybersecurity Professional** with **5+ years of experience** spec
 2019 - 2020     │ Junior Security Analyst @ CyberGuard Inc
                 │ → Security monitoring and incident response
                 │ → Foundation in cybersecurity practices
-```
+
 ## Let's Connect
 
 I'm always interested in collaborating on cybersecurity projects and sharing knowledge with the security community. Whether you're looking for:
