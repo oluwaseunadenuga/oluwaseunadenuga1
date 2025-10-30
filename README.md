@@ -56,7 +56,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## Featured Projects
 
-### Vulnerability Management with Tenable & AWS
+### Vulnerability Management with Tenable & AZURE
 - Implemented a comprehensive vulnerability management solution
 - **85% reduction** in security exposure across enterprise infrastructure
 - Technologies: `Tenable` `AWS` `CVSS`
@@ -89,7 +89,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## Certifications & Training
 
 - **Cyber Essentials+** (2023)
-- **ISO 27001 Lead Implementer** (2023)
+- **ISO 27001 Lead Implementer** (2025)
 - **CISSP** (In Progress)
 - **AWS Security Specialty** (Planned)
 
